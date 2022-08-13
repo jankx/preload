@@ -1,0 +1,15 @@
+{
+    "name": "jankx/preload",
+    "autoload": {
+        "psr-4": {
+            "Jankx\\Preload\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "require": {}
+}
